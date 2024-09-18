@@ -1,0 +1,1 @@
+This is just a sample python project created in Pycharm for Assignment 0 of COMP 576.
